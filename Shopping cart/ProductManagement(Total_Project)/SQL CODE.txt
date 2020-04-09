@@ -41,7 +41,7 @@ uname varchar(20),
 pass varchar(20));
 
 
-insert into login values('nsrt','Nsrt@123');
+insert into login values('varsha','abc');
 
 
 
